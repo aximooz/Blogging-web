@@ -1,4 +1,4 @@
-4202
+4204
 98C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\posthtml\node_modules\domutils\lib133826492208013345 1
 58C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\.github133826472757560577 1
 94C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\js-yaml\lib\schema\failsafe.js133826492181913425 0
@@ -23,7 +23,7 @@
 68C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\package-lock.json133826492397813642 0
 125C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib133826492171423353 1
 107C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map133826492220273347 0
-55C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\dist133826495416313299 1
+55C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\dist133826535497560079 1
 95C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@parcel\workers\src\cpuCount.js133826492218673334 0
 86C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\env-paths\package.json133826492165333378 0
 94C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@parcel\watcher\src\DirTree.hh133826492214363366 0
@@ -55,9 +55,25 @@
 86C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\msgpackr\node-index.js133826492211373367 0
 99C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\domelementtype\lib\esm\package.json133826492173463337 0
 80C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\posthtml\license133826492180833473 0
-54C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\src133826493534827499 1
+54C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\src133826541302093257 1
 73C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\term-size133826492191493349 1
-57C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\styles133826472091289926 1
+57C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\styles133826541302103265 1
+82C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\domhandler\lib\esm133826492191033366 1
+75C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\is-arrayish133826492178433363 1
+78C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\semver\classes133826492218153387 1
+77C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\lmdb\level.js133826492238613412 0
+100C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@parcel\core\lib\loadParcelPlugin.js133826492230023367 0
+76C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\import-fresh133826492172493372 1
+70C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@babel133826492157523455 1
+107C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\caniuse-lite\data\features\css-gradients.js133826492240383353 0
+86C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\dotenv-expand\tea.yaml133826492180423357 0
+59C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\test.txt133826535497600093 0
+106C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@swc\helpers\esm\_await_async_generator.js133826492229603385 0
+71C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\globals133826492176673421 1
+78C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\lmdb\README.md133826492240073374 0
+67C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\styles\style.css133826535497590065 0
+100C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@swc\helpers\src\_async_iterator.mjs133826492249243336 0
+99C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\node-releases\data\release-schedule133826492174923448 1
 68C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\.bin133826492377945341 1
 121C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@parcel\runtime-js\lib\helpers\browser\import-polyfill.js133826492216563374 0
 83C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\htmlparser2\LICENSE133826492162983392 0
@@ -72,7 +88,7 @@
 83C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\type-fest\base.d.ts133826492177333331 0
 112C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@swc\helpers\esm\_initializer_define_property.js133826492238303368 0
 89C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@parcel\packager-html\src133826492197953343 1
-65C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\src\index.html133826493589129930 0
+65C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\src\index.html133826535497580122 0
 103C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@parcel\utils\test\prettifyTime.test.js133826492227093341 0
 80C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\type-fest\source133826492217743370 1
 84C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\json5\lib\unicode.js133826492183143366 0
@@ -84,13 +100,6 @@
 93C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@parcel\workers\lib\Worker.js133826492225523352 0
 82C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\.package-lock.json133826492399043635 0
 102C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\type-fest\source\conditional-keys.d.ts133826492183213420 0
-82C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\domhandler\lib\esm133826492191033366 1
-75C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\is-arrayish133826492178433363 1
-78C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\semver\classes133826492218153387 1
-77C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\lmdb\level.js133826492238613412 0
-100C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@parcel\core\lib\loadParcelPlugin.js133826492230023367 0
-76C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\import-fresh133826492172493372 1
-70C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@babel133826492157523455 1
 70C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\braces133826492181123338 1
 110C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@parcel\core\lib\registerCoreWithSerializer.js133826492239583352 0
 113C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.h133826492237563355 0
@@ -229,6 +238,8 @@
 110C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\node-gyp-build-optional-packages\build-test.js133826492177233335 0
 125C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@parcel\package-manager\test\fixtures\packages\a\package.json133826492223653427 0
 109C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\caniuse-lite\data\features\css-crisp-edges.js133826492239083354 0
+124C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\060-contribute.md133826492227023396 0
+72C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\get-port133826492206583353 1
 101C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\posthtml\node_modules\htmlparser2\lib133826492217663327 1
 104C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\lightningcss-win32-x64-msvc\package.json133826492177283346 0
 78C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\domelementtype133826492179453338 1
@@ -236,8 +247,6 @@
 97C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\dom-serializer\lib\esm\index.d.ts133826492190763373 0
 91C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\lightningcss-win32-x64-msvc133826492179653365 1
 91C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\domelementtype\package.json133826492175423362 0
-124C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\060-contribute.md133826492227023396 0
-72C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\get-port133826492206583353 1
 89C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\posthtml-parser\readme.md133826492180403351 0
 85C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\htmlnano\CHANGELOG.md133826492227253351 0
 73C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\js-tokens133826492172413374 1
@@ -274,8 +283,6 @@
 130C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\LICENSE133826492162883346 0
 95C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\caniuse-lite\data\regions\UZ.js133826492264413353 0
 72C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\error-ex133826492167253329 1
-71C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\globals133826492176673421 1
-78C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\lmdb\README.md133826492240073374 0
 88C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@parcel\profiler\LICENSE133826492186043386 0
 92C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\color-convert\conversions.js133826492166263397 0
 93C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@parcel\transformer-image\lib133826492193923357 1
@@ -866,8 +873,8 @@
 97C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\caniuse-lite\data\features\wav.js133826492265073357 0
 80C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\srcset\readme.md133826492179723351 0
 92C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\node-addon-api\noexcept.gypi133826492180603357 0
-80C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\semver\functions133826492219763355 1
 96C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\picocolors\picocolors.browser.js133826492163403342 0
+80C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\semver\functions133826492219763355 1
 90C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\picomatch\lib\picomatch.js133826492175003360 0
 108C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@swc\helpers\_\_read_only_error\package.json133826492247063339 0
 95C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\ordered-binary\rollup.config.js133826492181263353 0
@@ -1424,8 +1431,6 @@
 87C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\node-releases\README.md133826492177073339 0
 114C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@parcel\runtime-js\src\helpers\node\html-loader.js133826492216263333 0
 92C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\node-releases\data\processed133826492163713358 1
-100C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@swc\helpers\src\_async_iterator.mjs133826492249243336 0
-99C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\node-releases\data\release-schedule133826492174923448 1
 92C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\entities\lib\esm\escape.d.ts133826492224963349 0
 82C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\lmdb\node-index.js133826492238793364 0
 121C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\node-releases\data\release-schedule\release-schedule.json133826492175283332 0
@@ -1930,9 +1935,6 @@
 80C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\is-json\index.js133826492174253394 0
 120C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@swc\helpers\_\_check_private_redeclaration\package.json133826492242473352 0
 79C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\is-json\LICENSE133826492171403332 0
-79C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\.bin\parcel.cmd133826492377945341 0
-114C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\caniuse-lite\data\features\high-resolution-time.js133826492251693339 0
-121C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@swc\helpers\cjs\_class_static_private_field_spec_set.cjs133826492216593336 0
 79C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\is-glob\LICENSE133826492162813343 0
 96C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@parcel\transformer-posthtml\lib133826492191473357 1
 83C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\is-extglob\index.js133826492168713348 0
@@ -2236,9 +2238,6 @@
 87C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\dotenv-expand\config.js133826492163503343 0
 85C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\dotenv-expand\LICENSE133826492162833340 0
 90C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\dotenv-expand\package.json133826492171273378 0
-107C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\caniuse-lite\data\features\css-gradients.js133826492240383353 0
-86C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\dotenv-expand\tea.yaml133826492180423357 0
-106C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@swc\helpers\esm\_await_async_generator.js133826492229603385 0
 91C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\dotenv-expand\lib\main.d.ts133826492179443365 0
 89C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\dotenv-expand\lib\main.js133826492166393372 0
 95C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\caniuse-lite\data\regions\GT.js133826492250923355 0
@@ -2888,6 +2887,9 @@
 103C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\caniuse-lite\data\features\gyroscope.js133826492251123339 0
 104C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\caniuse-lite\data\features\websockets.js133826492265433379 0
 100C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\caniuse-lite\data\features\hidden.js133826492251603355 0
+79C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\.bin\parcel.cmd133826492377945341 0
+114C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\caniuse-lite\data\features\high-resolution-time.js133826492251693339 0
+121C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\@swc\helpers\cjs\_class_static_private_field_spec_set.cjs133826492216593336 0
 101C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\caniuse-lite\data\features\history.js133826492252063360 0
 112C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\caniuse-lite\data\features\html-media-capture.js133826492252373365 0
 108C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\caniuse-lite\data\features\iframe-sandbox.js133826492253003369 0
@@ -4197,7 +4199,7 @@
 79C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\.bin\semver.cmd133826492377945341 0
 79C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\.bin\semver.ps1133826492377945341 0
 95C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\node_modules\.bin\update-browserslist-db.ps1133826492377945341 0
-66C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\dist\index.html133826495416293281 0
+66C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\dist\index.html133826535497570081 0
 68C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\.github\workflows133826473336324438 1
 92C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\.github\workflows\deploy-development.yaml133826473413774511 0
 87C:\Users\user\Downloads\DevopsA4\DOA4\Blogging-web\.github\workflows\pr-validation.yaml133826472955431973 0
